@@ -13,6 +13,7 @@ title = "Academic"
 copyright = "&copy; 2018"
 
 theme = "academic"
+
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -54,21 +55,19 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Sebastian Sternberg"
+  role = "Research Associate Quantitative Methods in the Social Sciences"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Mannheim", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  avatar = "ssternbe.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "sebastian.sternberg@gess.uni-mannheim.de"
+  address = "Building A5 6 Room C221, D-68072 Mannheim, Germany"
+  office_hours = "Email for appointment"
+  phone = "+49 (0)621 181 2542"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -226,22 +225,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:sebastian.sternberg@gess.uni-mannheim.de"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/GFCC_Forecast"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "linkedin"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.linkedin.com/mynetwork/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/ssternbe"
 
 
 # Navigation Links

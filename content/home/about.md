@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Machine Learning/Deep Learning",
+    "Predictive Modelling",
+    "Text Analysis",
+    "Empirical Legal Studies"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Nothing"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD Candidate"
+  institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
+  year = "Present"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "M.A. Double Degree Public Administration and European Governance"
+  institution = "University of Konstanz/Science Po Grenoble"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.A. Political Science/Public Law"
+  institution = "University of Mannheim"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate and Research Associate at the Department of Political Science, Chair for 
+Quantitative Methods in the Social Sciences at the University of Mannheim. I am interested in using machine learning approaches for the analysis of political science questions, with a particular focus on predictive modelling and text analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My work includes, for instance, the prediction of constitutional court decision-making and the development of a classifier to detect strategical vagueness in judicial texts using deep learning. 
+
