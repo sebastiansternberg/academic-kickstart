@@ -3,10 +3,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://ssternbe.github.io/"
+baseurl = "https://sebastiansternberg.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Sebastian Sternberg"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -24,7 +24,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-120632918-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -56,7 +56,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Sebastian Sternberg"
-  role = "Research Associate Quantitative Methods in the Social Sciences"
+  role = "PhD Candidate at the Chair of Quantitative Methods in the Social Sciences"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -234,13 +234,13 @@ enableGitInfo = false
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "ai"
-    link = "https://www.linkedin.com/mynetwork/"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/sebastian-sternberg-4b4268b9/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/ssternbe"
+    link = "//github.com/sebastiansternberg"
 
 
 # Navigation Links
@@ -257,24 +257,26 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Current Research"
+  url = "#selected_publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
+
+[[menu.main]]
+   name = "CV"
+   url = "pdf/cv.pdf"
+   weight = 5
+
 
 [[menu.main]]
   name = "Contact"
