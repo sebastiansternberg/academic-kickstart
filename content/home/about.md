@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Machine Learning/Deep Learning",
     "Predictive Modelling",
-    "Text Analysis",
+    "Text Analysis/Natural Language Processing",
     "Empirical Legal Studies"
   ]
 
@@ -37,7 +37,9 @@ weight = 5
 # Biography
 
 I am a third-year PhD Candidate and Research Associate at the Department of Political Science, Chair for 
-Quantitative Methods in the Social Sciences at the University of Mannheim. I am interested in using machine learning approaches for the analysis of political science questions, with a particular focus on predictive modelling and text analysis. 
+Quantitative Methods in the Social Sciences at the University of Mannheim. I am interested in the application of machine learning approaches to political science questions, with a particular focus on predictive modelling and text analysis. 
 
-My work includes, for instance, the prediction of constitutional court decision-making and the development of a classifier to detect strategical vagueness in judicial texts using deep learning. Recently, I also started to give workshops in *R*, for instance for the *Bundesbank* (Unsupervised Machine Learning) and the *GQH* (Introduction to R). 
+My work includes, for instance, the prediction of constitutional court decision-making with a machine learning classifier and the development of a deep learning classifier to analyze vagueness in judicial texts. Recently, I also started to give workshops in *R*, for instance a Machine Learning/Deep Learning Workshop at the *Deutsche Bundesbank* or an Introduction to *R* Workshop at the *Geschäftstelle Qualitätssicherung Hessen*. 
+
+
 

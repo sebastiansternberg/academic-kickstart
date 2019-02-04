@@ -5,7 +5,7 @@ title = "Zweitstimme.org. Ein strukturell-dynamisches Vorhersagemodell für Bund
 date = "2017-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Simon Munzert", "Lukas Stötzer", "Thomas Gschwend", "Marcel Neunhoeffer", "Sebastian Sternberg"]
+authors = ["[Simon Munzert](http://simonmunzert.github.io/)", "[Lukas Stoetzer](http://lukas-stoetzer.org/)", "[Thomas Gschwend](http://methods.sowi.uni-mannheim.de/thomas_gschwend/)", "[Marcel Neunhoeffer](http://marcel-neunhoeffer.com/)", "Sebastian Sternberg"]
 
 # Publication type.
 # Legend:
@@ -20,7 +20,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Politische Vierteljahresschrift PVS 58(3): 418-441*"
-publication_short = "*PVS*"
+publication_short = "*Politische Vierteljahresschrift*"
 
 # Abstract and optional shortened version.
 abstract = "We present results of an ex-ante forecast of party-specific vote shares at the German Federal Election 2017. To that end, we combine data from published trial heat polls with structural information. The model takes care of the multi-party nature of the setting and allows making statements about the probability of certain events, such as the plurality of votes for a party or the majority for coalition options in parliament. The forecasts of our model are continuously being updated on the platform zweitstimme.org. The value of our approach goes beyond the realms of academia: We equip journalists, political pundits, and ordinary citizens with information that can help make sense of the parties’ latent support and ultimately make voting decisions better informed."
@@ -43,7 +43,7 @@ url_pdf = "http://methods.sowi.uni-mannheim.de/publications/Articles/Munzert%20e
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "http://zweitstimme.org/"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -61,7 +61,5 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+
 +++

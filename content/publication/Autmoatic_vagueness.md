@@ -1,7 +1,7 @@
 +++
 
-title = "Automatic Detection of Vagueness in Court Rulings."
-date = "2018-06-01"
+title = "Automatic Detection of Vague Language in Court Decisions."
+date = "2019-01-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -23,9 +23,10 @@ publication = "*Working Paper*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "In this paper, I seek to develop a measurement for vague language in constitutional court rulings. I use two different methods to approach this: a dictionary extension using *word embeddings* and a deep learning classifier relying on *recurrent neural networks*. Currently, I am in the process of annoting the necessary data for validation and building the classifier. The goal is to use the measure that turns out best for the vagueness paper."
+abstract = "In this paper, I seek to develop a measurement for vague language in written constitutional court rulings. I use two different methods to approach this: a dictionary approach expanded using *word embeddings*, and a machine learning classifier. For the machine learning classifier, I use a large manually annotated data set and benchmark traditional NLP classifier vs. two different types of deep learning classifiers (CNNs and RNNs). I find that while the dictionary achieves a reasonable predictive performance, the deep learning classifiers are superior in capturing semantic meaning and classifying unseen instances."
 
-abstract_short = "In this paper, I seek to develop a measurement for vague language in constitutional court rulings. I use two different methods to approach this: a dictionary extension using *word embeddings* and a deep learning classifier relying on *recurrent neural networks*.  "
+
+abstract_short = "In this paper, I seek to develop a measurement for vague language in written constitutional court rulings. I use two different methods to approach this: a dictionary approach expanded using *word embeddings*, and a *machine learning classifier* (using both traditional NLP classifiers and recent deep learning classifiers). "
 
 # Featured image thumbnail (optional)
 image_preview = ""

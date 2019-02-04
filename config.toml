@@ -63,7 +63,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Mannheim", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "ssternbe.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "tagesspiegel.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "sebastian.sternberg@gess.uni-mannheim.de"
   address = "Building A5 6 Room C221, D-68072 Mannheim, Germany"
   office_hours = "Email for appointment"
@@ -274,7 +274,7 @@ enableGitInfo = false
 
 [[menu.main]]
    name = "CV"
-   url = "pdf/cv.pdf"
+   url = "pdf/cv1.pdf"
    weight = 5
 
 

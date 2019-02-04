@@ -1,7 +1,7 @@
 +++
 
 title = "How to Forecast Constitutional Court Decisions? Legal Context and Political Context in a Machine Learning Framework"
-date = "2018-06-02"
+date = "2018-02-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
